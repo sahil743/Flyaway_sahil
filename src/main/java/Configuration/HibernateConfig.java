@@ -1,4 +1,4 @@
-package Configuration;
+gpackage Configuration;
 
 import java.util.Properties;
 
